@@ -1,0 +1,10 @@
+{
+  "description": "Explore and collect visual motifs from Frutiger Aero and other aesthetic styles in a serene digital museum for design enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
