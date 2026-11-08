@@ -81,8 +81,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "操作系统界面",
         note: "半透明窗口、高光边框和具有景深的桌面，将屏幕塑造成一层可以触摸的玻璃。",
         watch: ["窗口边缘的折射", "透明层级", "柔和的状态反馈"],
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/4/42/VirtualBox_Windows_Vista_SP2_08_01_2025_10_05_26crop3.png",
+        image: "/classics/aero/vista-aero.jpg",
       },
       {
         id: "bliss",
@@ -92,8 +91,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "桌面视觉",
         note: "蓝天与草坡成为全球最熟悉的数字入口，也奠定了自然与个人电脑并置的视觉记忆。",
         watch: ["极简地平线", "高明度自然色", "没有技术焦虑的桌面"],
-        image:
-          "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bliss_location%2C_Sonoma_Valley_in_2006.jpg/960px-Bliss_location%2C_Sonoma_Valley_in_2006.jpg",
+        image: "/classics/aero/bliss.jpg",
       },
       {
         id: "wii-menu",
@@ -103,6 +101,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "家庭娱乐界面",
         note: "白色频道网格、天蓝状态和温和提示音，让数字设备显得轻松、家庭化且友好。",
         watch: ["低压力留白", "圆角频道卡片", "声音与界面的一致性"],
+        image: "/classics/aero/wii-menu.jpg",
       },
       {
         id: "windows-7",
@@ -112,6 +111,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "操作系统界面",
         note: "它保留 Aero Glass 的通透感，同时降低 Vista 的装饰密度，展示一种更成熟的使用方式。",
         watch: ["克制的玻璃效果", "任务栏光泽", "自然主题壁纸"],
+        image: "/classics/aero/windows-7.jpg",
       },
     ],
     exhibits: createExhibits("aero", [
@@ -162,8 +162,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "消费电子",
         note: "透明彩色外壳把电脑从灰色办公设备变成了可以摆进家庭的未来物件。",
         watch: ["透明外壳", "糖果配色", "内部结构的可见性"],
-        image:
-          "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Mac_OS_9_on_iMac_G3.jpg/960px-Mac_OS_9_on_iMac_G3.jpg",
+        image: "/classics/y2k/imac-g3.jpg",
       },
       {
         id: "minidisc",
@@ -173,8 +172,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "便携音乐设备",
         note: "银色机身、微型屏幕和机械控制将音乐压缩进一件精密的掌心设备。",
         watch: ["金属与塑料", "微型液晶屏", "实体按键层级"],
-        image:
-          "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Sony_MZ_R500_minidisc_player.jpg/960px-Sony_MZ_R500_minidisc_player.jpg",
+        image: "/classics/y2k/minidisc.jpg",
       },
       {
         id: "wipeout",
@@ -184,6 +182,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "游戏与品牌视觉",
         note: "虚构企业、数字编号和高速排版把完整的未来商业世界带进游戏。",
         watch: ["虚构品牌系统", "高速信息层级", "音乐与图形的同步"],
+        image: "/classics/y2k/wipeout.jpg",
       },
       {
         id: "flip-phone",
@@ -193,6 +192,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "移动设备",
         note: "像素菜单、软按键和发光状态灯，构成了移动互联网最早的日常想象。",
         watch: ["软按键逻辑", "像素图标", "掌心尺寸的信息密度"],
+        image: "/classics/y2k/flip-phone.jpg",
       },
     ],
     exhibits: createExhibits("y2k", [
@@ -352,8 +352,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "织物图案",
         note: "植物并非装饰性散落，而是经过严密重复构成一片持续生长的平面。",
         watch: ["植物的重复秩序", "手工线条", "有限而深沉的配色"],
-        image:
-          "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Morris_African_Marigold_textile_drawing_1876.jpg/960px-Morris_African_Marigold_textile_drawing_1876.jpg",
+        image: "/classics/cottage/morris-marigold.jpg",
       },
       {
         id: "arts-crafts",
@@ -363,6 +362,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "设计运动",
         note: "对材料、劳动与日常器物的尊重，构成了 Cottagecore 更深层的历史来源。",
         watch: ["材料诚实", "手工劳动", "图案进入日常生活"],
+        image: "/classics/cottage/arts-crafts.jpg",
       },
       {
         id: "botanical-plate",
@@ -372,6 +372,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "科学插画",
         note: "精确观察与诗意构图共存，让知识记录本身也具有安静的审美价值。",
         watch: ["留白与标注", "比例观察", "科学和诗意的平衡"],
+        image: "/classics/cottage/botanical-plate.jpg",
       },
       {
         id: "seed-packets",
@@ -381,6 +382,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "日常包装",
         note: "小型包装把植物图像、品种信息和地方商业浓缩在可被保存的纸片上。",
         watch: ["小尺度排版", "手绘植物", "生活化的信息设计"],
+        image: "/classics/cottage/seed-packets.jpg",
       },
     ],
     exhibits: createExhibits("cottage", [
@@ -450,8 +452,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "家具与雕塑",
         note: "书架被改造成图腾式结构，功能、色彩和幽默在同一件物体中发生冲突。",
         watch: ["不稳定的对称", "层压板色彩", "家具与雕塑的边界"],
-        image:
-          "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Carlton_Bookcase%2C_by_Ettore_Sottsass%2C_1981%2C_wood_veneer_and_plastic_laminate%2C_Inv._FNAC_1980%2C_Mus%C3%A9e_des_Arts_D%C3%A9coratifs%2C_Paris_%2801%29.png/960px-Carlton_Bookcase%2C_by_Ettore_Sottsass%2C_1981%2C_wood_veneer_and_plastic_laminate%2C_Inv._FNAC_1980%2C_Mus%C3%A9e_des_Arts_D%C3%A9coratifs%2C_Paris_%2801%29.png",
+        image: "/classics/memphis/carlton.jpg",
       },
       {
         id: "tahiti",
@@ -461,6 +462,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "灯具",
         note: "台灯被塑造成一只颜色鲜明的鸟，证明功能物件也可以拥有角色和幽默。",
         watch: ["角色化轮廓", "原色切分", "功能与玩笑并存"],
+        image: "/classics/memphis/tahiti.jpg",
       },
       {
         id: "first-collection",
@@ -470,6 +472,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "设计展览",
         note: "一组家具与物件共同拒绝现代主义的冷静规范，建立了完整的反严肃世界。",
         watch: ["物件之间的共同语法", "图案密度", "有控制的失衡"],
+        image: "/classics/memphis/first-collection.jpg",
       },
       {
         id: "memphis-revival",
@@ -479,6 +482,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "视觉复兴",
         note: "几何、波浪与原色重新进入数字界面，但也更容易被简化成表面图案。",
         watch: ["原作与复兴的差异", "几何节奏", "避免随机堆砌"],
+        image: "/classics/memphis/memphis-revival.jpg",
       },
     ],
     exhibits: createExhibits("memphis", [
@@ -547,6 +551,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "操作系统界面",
         note: "条纹进度条、果冻按钮和湿润高光，把计算机控制器变成可以感知体积的物件。",
         watch: ["控件的可按压感", "高光塑造体积", "一致的水感隐喻"],
+        image: "/classics/aqua/mac-aqua.jpg",
       },
       {
         id: "itunes",
@@ -556,6 +561,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "媒体播放器",
         note: "拉丝金属、圆形控制器与播放器隐喻，让数字音乐延续实体设备的操作记忆。",
         watch: ["硬件式控制器", "金属材质", "播放行为的视觉映射"],
+        image: "/classics/aqua/itunes.jpg",
       },
       {
         id: "ios-6",
@@ -565,6 +571,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "移动操作系统",
         note: "拟物化在移动端达到高峰：书架、皮革、纸张和真实工具帮助用户理解陌生的触摸界面。",
         watch: ["现实隐喻", "应用图标体积", "材质与功能的关联"],
+        image: "/classics/aqua/ios-6.jpg",
       },
       {
         id: "dashboard",
@@ -574,6 +581,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "桌面小工具",
         note: "天气、时钟和便笺以独立物件漂浮在桌面上，构成一张数字工作台。",
         watch: ["物件化组件", "阴影与悬浮", "现实工具的数字转译"],
+        image: "/classics/aqua/dashboard.jpg",
       },
     ],
     exhibits: createExhibits("aqua", [
@@ -647,8 +655,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "音乐海报",
         note: "同心弧线将音乐节奏转化为严格几何，动态与秩序在同一网格中成立。",
         watch: ["几何的音乐性", "非对称平衡", "信息与图形的比例"],
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/0/01/Josef_M%C3%BCller-Brockmann._beethoven_poster%281955%29.jpg",
+        image: "/classics/swiss/beethoven.jpg",
       },
       {
         id: "der-film",
@@ -658,8 +665,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "展览海报",
         note: "摄影、文字与斜向结构共同制造观看路径，展示网格并不意味着静止。",
         watch: ["斜向运动", "摄影裁切", "极少元素的层级"],
-        image:
-          "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Josef_M%C3%BCller-Brockmann_der_Film.jpg/960px-Josef_M%C3%BCller-Brockmann_der_Film.jpg",
+        image: "/classics/swiss/der-film.jpg",
       },
       {
         id: "neue-grafik",
@@ -669,6 +675,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "设计期刊",
         note: "这本期刊系统传播了国际主义排版的理论、案例与跨语言视觉标准。",
         watch: ["模块化封面", "多语言信息", "系统化编辑"],
+        image: "/classics/swiss/neue-grafik.jpg",
       },
       {
         id: "helvetica",
@@ -678,6 +685,7 @@ export const museumThemes: MuseumTheme[] = [
         type: "字体设计",
         note: "中性的字形并不意味着没有个性，而是让比例、空间和内容承担表达。",
         watch: ["字面与留白", "中性中的节奏", "字号建立层级"],
+        image: "/classics/swiss/helvetica.jpg",
       },
     ],
     exhibits: createExhibits("swiss", [

@@ -260,21 +260,21 @@ Keep this specification project-local while the collection and knowledge model a
    ```
 3. Once `image` is populated, `ClassicGallery` and `ClassicDrawer` automatically replace `图像待补` with the real image. No JSX changes in `src/App.tsx` are needed.
 
-### 7.3 Current Classic Works Inventory (12 Completed / 16 Missing)
+### 7.3 Current Classic Works Inventory (28 Completed / 0 Missing)
 
-#### `aero` — Frutiger Aero（已完成 2 / 待补 2）
+#### `aero` — Frutiger Aero（已完成 4 / 待补 0）
 
-- [x] `vista-aero` — Windows Vista Aero (`Microsoft`, `2006`) — 已配图
-- [x] `bliss` — Bliss 与 Windows XP (`Charles O’Rear / Microsoft`, `2001`) — 已配图
-- [ ] **待补** `wii-menu` — Wii Menu (`Nintendo`, `2006`) → 建议路径：`/classics/aero/wii-menu.jpg`（真实 Wii 主菜单频道网格界面截图）
-- [ ] **待补** `windows-7` — Windows 7 (`Microsoft`, `2009`) → 建议路径：`/classics/aero/windows-7.jpg`（真实 Windows 7 Aero Glass 桌面与任务栏截图）
+- [x] `vista-aero` — Windows Vista Aero (`Microsoft`, `2006`) — `/classics/aero/vista-aero.jpg`
+- [x] `bliss` — Bliss 与 Windows XP (`Charles O’Rear / Microsoft`, `2001`) — `/classics/aero/bliss.jpg`
+- [x] `wii-menu` — Wii Menu (`Nintendo`, `2006`) — `/classics/aero/wii-menu.jpg`
+- [x] `windows-7` — Windows 7 (`Microsoft`, `2009`) — `/classics/aero/windows-7.jpg`
 
-#### `y2k` — Y2K（已完成 2 / 待补 2）
+#### `y2k` — Y2K（已完成 4 / 待补 0）
 
-- [x] `imac-g3` — iMac G3 (`Apple / Jony Ive`, `1998`) — 已配图
-- [x] `minidisc` — Sony MiniDisc (`Sony`, `1992—2000s`) — 已配图
-- [ ] **待补** `wipeout` — Wipeout 视觉系统 (`The Designers Republic`, `1995`) → 建议路径：`/classics/y2k/wipeout.jpg`（WipEout 游戏包装、界面或 The Designers Republic 标志性图形设计实拍/截图）
-- [ ] **待补** `flip-phone` — 翻盖手机时代 (`Nokia / Motorola / Sony Ericsson`, `1999—2005`) → 建议路径：`/classics/y2k/flip-phone.jpg`（Motorola RAZR V3 或千禧年银色翻盖手机实拍图）
+- [x] `imac-g3` — iMac G3 (`Apple / Jony Ive`, `1998`) — `/classics/y2k/imac-g3.jpg`
+- [x] `minidisc` — Sony MiniDisc (`Sony`, `1992—2000s`) — `/classics/y2k/minidisc.jpg`
+- [x] `wipeout` — Wipeout 视觉系统 (`The Designers Republic`, `1995`) — `/classics/y2k/wipeout.jpg`
+- [x] `flip-phone` — 翻盖手机时代 (`Nokia / Motorola / Sony Ericsson`, `1999—2005`) — `/classics/y2k/flip-phone.jpg`
 
 #### `brutal` — Soft Brutalism（已完成 4 / 待补 0）
 
@@ -283,33 +283,33 @@ Keep this specification project-local while the collection and knowledge model a
 - [x] `craigslist` — Craigslist (`/classics/brutal/craigslist.jpg`)
 - [x] `arena` — Are.na (`/classics/brutal/arena.jpg`)
 
-#### `cottage` — Cottagecore（已完成 1 / 待补 3）
+#### `cottage` — Cottagecore（已完成 4 / 待补 0）
 
-- [x] `morris-marigold` — African Marigold (`William Morris`, `1876`) — 已配图
-- [ ] **待补** `arts-crafts` — Arts and Crafts Movement (`英国工艺美术运动`, `1880—1920`) → 建议路径：`/classics/cottage/arts-crafts.jpg`（Red House、Morris & Co. 室内织物或工艺美术运动家具/书籍装帧实拍图）
-- [ ] **待补** `botanical-plate` — 植物学图谱 (`自然观察传统`, `18—19 世纪`) → 建议路径：`/classics/cottage/botanical-plate.jpg`（18–19 世纪古典植物学铜版设色图谱，如 Redouté 或 Curtis's Botanical Magazine）
-- [ ] **待补** `seed-packets` — Vintage Seed Packets (`种子商与印刷工坊`, `19—20 世纪`) → 建议路径：`/classics/cottage/seed-packets.jpg`（19–20 世纪早期彩色石印园艺种子袋/目录封面的真实档案图）
+- [x] `morris-marigold` — African Marigold (`William Morris`, `1876`) — `/classics/cottage/morris-marigold.jpg`
+- [x] `arts-crafts` — Arts and Crafts Movement (`英国工艺美术运动`, `1880—1920`) — `/classics/cottage/arts-crafts.jpg`
+- [x] `botanical-plate` — 植物学图谱 (`自然观察传统`, `18—19 世纪`) — `/classics/cottage/botanical-plate.jpg`
+- [x] `seed-packets` — Vintage Seed Packets (`种子商与印刷工坊`, `19—20 世纪`) — `/classics/cottage/seed-packets.jpg`
 
-#### `memphis` — Memphis Revival（已完成 1 / 待补 3）
+#### `memphis` — Memphis Revival（已完成 4 / 待补 0）
 
-- [x] `carlton` — Carlton Room Divider (`Ettore Sottsass`, `1981`) — 已配图
-- [ ] **待补** `tahiti` — Tahiti Lamp (`Ettore Sottsass`, `1981`) → 建议路径：`/classics/memphis/tahiti.jpg`（Ettore Sottsass 1981 年 Tahiti 台灯馆藏实拍图）
-- [ ] **待补** `first-collection` — Memphis First Collection (`Memphis Group`, `1981`) → 建议路径：`/classics/memphis/first-collection.jpg`（Memphis Milano 1981 首批家具/展览或 Casablanca 柜、Beverly 椅等真实馆藏照片）
-- [ ] **待补** `memphis-revival` — Memphis Revival (`当代品牌与动态图形`, `2010s—`) → 建议路径：`/classics/memphis/memphis-revival.jpg`（Camille Walala 等孟菲斯复兴代表性空间/平面作品实拍图）
+- [x] `carlton` — Carlton Room Divider (`Ettore Sottsass`, `1981`) — `/classics/memphis/carlton.jpg`
+- [x] `tahiti` — Tahiti Lamp (`Ettore Sottsass`, `1981`) — `/classics/memphis/tahiti.jpg`
+- [x] `first-collection` — Memphis First Collection (`Memphis Group`, `1981`) — `/classics/memphis/first-collection.jpg`
+- [x] `memphis-revival` — Memphis Revival (`当代品牌与动态图形`, `2010s—`) — `/classics/memphis/memphis-revival.jpg`
 
-#### `aqua` — Aqua / Skeuomorphism（已完成 0 / 待补 4）
+#### `aqua` — Aqua / Skeuomorphism（已完成 4 / 待补 0）
 
-- [ ] **待补** `mac-aqua` — Mac OS X Aqua (`Apple`, `2000`) → 建议路径：`/classics/aqua/mac-aqua.jpg`（Mac OS X 10.0–10.4 含水滴按钮、条纹窗口与 Dock 的真实界面截图）
-- [ ] **待补** `itunes` — Early iTunes (`Apple`, `2001`) → 建议路径：`/classics/aqua/itunes.jpg`（早期 iTunes 拉丝金属窗口与液晶状态区真实截图）
-- [ ] **待补** `ios-6` — iOS 6 (`Apple`, `2012`) → 建议路径：`/classics/aqua/ios-6.jpg`（iOS 6 主屏幕、拟物图标或皮革/绒布质感应用真实截图）
-- [ ] **待补** `dashboard` — Mac OS X Dashboard (`Apple`, `2005`) → 建议路径：`/classics/aqua/dashboard.jpg`（Mac OS X Tiger Dashboard 拟物小组件真实截图）
+- [x] `mac-aqua` — Mac OS X Aqua (`Apple`, `2000`) — `/classics/aqua/mac-aqua.jpg`
+- [x] `itunes` — Early iTunes (`Apple`, `2001`) — `/classics/aqua/itunes.jpg`
+- [x] `ios-6` — iOS 6 (`Apple`, `2012`) — `/classics/aqua/ios-6.jpg`
+- [x] `dashboard` — Mac OS X Dashboard (`Apple`, `2005`) — `/classics/aqua/dashboard.jpg`
 
-#### `swiss` — Swiss Style（已完成 2 / 待补 2）
+#### `swiss` — Swiss Style（已完成 4 / 待补 0）
 
-- [x] `beethoven` — Beethoven Poster (`Josef Müller-Brockmann`, `1955`) — 已配图
-- [x] `der-film` — Der Film (`Josef Müller-Brockmann`, `1960`) — 已配图
-- [ ] **待补** `neue-grafik` — Neue Grafik (`Lohse / Müller-Brockmann / Neuburg / Vivarelli`, `1958—1965`) → 建议路径：`/classics/swiss/neue-grafik.jpg`（《Neue Grafik》杂志封面或内页网格版面实拍图）
-- [ ] **待补** `helvetica` — Helvetica (`Max Miedinger / Eduard Hoffmann`, `1957`) → 建议路径：`/classics/swiss/helvetica.jpg`（Haas 铸字厂 Neue Haas Grotesk / Helvetica 早期字体标本册或经典海报实拍图）
+- [x] `beethoven` — Beethoven Poster (`Josef Müller-Brockmann`, `1955`) — `/classics/swiss/beethoven.jpg`
+- [x] `der-film` — Der Film (`Josef Müller-Brockmann`, `1960`) — `/classics/swiss/der-film.jpg`
+- [x] `neue-grafik` — Neue Grafik (`Lohse / Müller-Brockmann / Neuburg / Vivarelli`, `1958—1965`) — `/classics/swiss/neue-grafik.jpg`
+- [x] `helvetica` — Helvetica (`Max Miedinger / Eduard Hoffmann`, `1957`) — `/classics/swiss/helvetica.jpg`
 
 ### 7.4 Verification Checklist After Adding Assets
 
